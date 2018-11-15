@@ -1,4 +1,4 @@
-
+// Blur library by Oleg Skorokhod
 #include <stdint.h>
 #include <stb.h>
 #include <stb_image.h>
